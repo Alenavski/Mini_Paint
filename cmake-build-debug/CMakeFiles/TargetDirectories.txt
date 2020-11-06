@@ -1,0 +1,3 @@
+B:/OSaSP/Mini_Paint/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+B:/OSaSP/Mini_Paint/cmake-build-debug/CMakeFiles/Mini_Paint.dir
+B:/OSaSP/Mini_Paint/cmake-build-debug/CMakeFiles/edit_cache.dir
