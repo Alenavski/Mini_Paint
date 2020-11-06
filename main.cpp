@@ -32,7 +32,7 @@ int CALLBACK WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLi
     wcex.lpfnWndProc = WndProc;
     wcex.cbWndExtra = sizeof(PMainWindow);
     wcex.hInstance = hInstance;
-    wcex.hCursor = LoadCursorA(NULL,IDC_ARROW);
+    wcex.hCursor = LoadCursorA(NULL,IDC_WAIT);
     wcex.hbrBackground = (HBRUSH)(COLOR_HIGHLIGHT+1);
     wcex.lpszClassName = szWindowClass;
     wcex.cbClsExtra = 0;
